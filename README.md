@@ -31,13 +31,13 @@ A pledge to support small businesses and ensure that they have the resources and
 A pledge to protect and enhance workers' rights, including the right to a living wage, paid leave, and safe and healthy working conditions.  
 
 
-# RosaWilliams Mystery Story 1.
+## RosaWilliams Mystery Story 1.
 
 Rosa Outside the House of Lords
 ---------------------------------------------
 
 
-Rosa Williams - Leader of the Labour Party (and the secret agent)
+### Rosa Williams - Leader of the Labour Party and the House of Lords
 
 
     "The House of Lords"
@@ -150,3 +150,122 @@ Rosa is overwhelmed by the attention and the gratitude, and she is filled with p
 She decides to start her next Labour Party blog post, and to share her experiences and her thoughts with the people of the UK. She writes about her adventures in the House of Lords, and about the importance of working together and of standing up for what is right. She also writes about the importance of protecting the vulnerable and the marginalized, and of ensuring that everyone has a fair and equal chance to succeed and to thrive.
 
 She knows that her words will resonate with the people of the UK, and that they will inspire and motivate them to work together and to make a positive difference in the world. She is a true hero, and she will always be remembered for her courage and her determination.
+
+
+## Rosa Williams and the secret document
+
+ Rosa Williams is sitting in the No. 10 Downing Street, reading the Sunday papers and sipping her tea. She is mumbling to her husband, David, about a strange murder case that has caught her attention. She tells him about the death of a Labour MP's cleaner, and how the case has puzzled and intrigued her. She says that she has a feeling, that there is more to the case than meets the eye.  
+ 
+ As Rosa continues to read the papers, she is overcome by a feeling of frustration and impatience. She knows that she has the skills and the knowledge to solve the murder case, and she wants to put her expertise to use. She remembers her years as a forensic nurse, and she thinks about the countless hours she spent studying crime scenes and analyzing evidence. She knows that she has a keen eye for detail, and she is determined to put her skills to the test.  
+ 
+ As Rosa continues to think about the murder case, she is torn between her duties as Prime Minister and her desire to investigate the crime. She knows that she has many responsibilities and obligations, and that she must prioritize her time and her energy. She also knows that she has a team of advisors and experts, who can help her to manage the complex and demanding job of running the country. But she cannot shake the feeling that she must do something, and that she must follow her instincts and her heart.
+ 
+ Rosa realizes that she cannot go to Lancashire right away, and that she must postpone her trip for a week. She knows that she has a lot of work to do, and that she cannot afford to take time off from her duties and responsibilities. She also knows that she will face criticism and opposition, if she leaves the capital and goes on a personal mission. She knows that she will be accused of neglecting her duties, and of prioritizing her own interests over the needs of the people.
+ 
+ As Rosa is sitting in her office at No. 10 Downing Street, there is a sudden bang that causes the windows to shatter and the walls to shake. She and her husband, David, are startled and confused, and they run to the door to see what has happened.
+
+They are met by a chaotic scene, as people are running in and out of the garden, shouting and screaming. Some of them are injured, and there is blood and debris everywhere. Rosa and David try to make sense of what is happening, and they look for a way to escape or to help.
+
+They see a group of security guards and police officers, who are trying to secure the area and to protect the people. They hear sirens and helicopters, as more emergency vehicles and personnel arrive on the scene. They feel fear and confusion, and they do not know what to do or where to go.  
+
+ Suddenly, the red phone on Rosa's desk starts to ring, and she picks it up. She hears the voice of President McDonald, who apologizes for the incident and explains that it was a mistake. He tells her that a nuclear-powered jet had been conducting a test in the nearby airspace, and that it had malfunctioned and crashed into the garden. He tells her that he is sorry, and that he will do everything he can to help and to compensate.  
+
+ Rosa is shocked and angry, and she demands answers and explanations. She tells President McDonald that he must take full responsibility for the disaster, and that he must face the consequences of his actions. She tells him that she will not accept his apology, and that she will demand justice and compensation for the victims and their families. She tells him that she will not be bullied or intimidated, and that she will not back down or give in.  
+
+ She hangs up the phone, and she turns to David and the others. She tells them that they must stay calm and focused, and that they must follow her lead. She tells them that they must not let fear or panic take over, and that they must trust in their strength and their resilience. She tells them that they must be heroes, and that they must do what is right, no matter what the cost.  
+ 
+ Rosa decides to take action and to investigate the murder case herself. She knows that it is a risky and dangerous move, but she is willing to do whatever it takes to get to the bottom of the mystery. She calls her friend and colleague, Barker Orion, who is the head of the police protection unit, and asks him for his help and support. Barker is hesitant at first, but he knows that Rosa is a skilled and experienced investigator, and he agrees to assist her in any way he can.
+
+As Prime Minister Rosa Williams and her trusted advisor Barker Orion embarked on their journey to Lancashire, they could not shake the feeling that they were being followed. The pair had decided to investigate the strange murder of a Labour MP's cleaner on their own, and they knew that their mission was dangerous and risky.
+
+They hailed a cab at the Houses of Parliament and made their way to the nearest train station, their eyes constantly scanning the crowds for any sign of their pursuers. Once on the train, Rosa and Barker kept a close watch on the passengers around them, looking for any suspicious behavior or unusual activity.
+
+As they arrived in Lancashire, they quickly made their way to the helicopter that would take them to their final destination. But as they boarded the aircraft, they heard the sound of footsteps behind them, and they knew that they were not alone.
+
+Rosa and Barker sat nervously in the helicopter, their ears straining for any sound that might reveal the identity of their stalker. They could feel their hearts pounding in their chests, and they knew that they would have to be ready for anything.
+
+As they landed at their destination, they quickly disembarked and began to search for clues and evidence that would help them solve the murder case. They were determined to uncover the truth, no matter the cost.
+
+But as they explored the area, they realized that they were not alone. Someone was watching them, and they knew that they were in grave danger. They would have to use all of their skills and cunning to survive, and to bring the killer to justice.
+
+ Rosa and Barker start by reviewing the available evidence and information about the case. They carefully analyze the crime scene, looking for any clues or leads that may help them identify the killer. They also interview the witnesses and the suspects, trying to piece together the events leading up to the murder. As they dig deeper, they discover that there is a complex web of lies and deceit, and that the truth is hidden behind a veil of secrecy and corruption.
+
+ Rosa and Barker are determined to uncover the truth, and they continue to investigate the case despite the many obstacles and challenges they face. They face threats and intimidation from the suspects, and they must navigate through a maze of political intrigue and corruption. But they are undeterred, and they refuse to give up. With their determination and their skills, they are able to solve the murder case and bring the killer to justice.
+ 
+ As Rosa and Barker enter Bury town hall, Rosa begins to talk to the political staff about how they are dealing with the situation surrounding the cleaner's murder. She may inquire about the steps they are taking to investigate the crime, and she may offer her support and assistance in the case.
+ 
+ As Barker ventured into the old school books store, he felt a sense of anticipation and excitement. He knew that the clues he was seeking were hidden within the shelves of dusty old volumes, and he was determined to find them.
+
+He began to search the shelves, his eyes scanning the titles and his fingers tracing the spines of the books. He was looking for anything that might help him in his investigation, and he was willing to explore every nook and cranny of the store.
+
+As he delved deeper into the store, he came across a hidden compartment in one of the shelves. He carefully opened the drawer and found a note inside, written in a neat and precise hand. He quickly read the note, his eyes scanning the words and his mind racing with excitement.
+
+The note contained important information about the case, and Barker knew that he had to act quickly. He carefully placed the note in his pocket and began to look for a way out of the store.
+
+But as he was about to leave, he felt a pair of eyes watching him. He turned around and saw the caretaker of the store, standing a few feet away from him with a look of suspicion on his face.
+
+"W-w-what are you d-d-doing here?" the caretaker asked, his voice trembling with fear.
+
+"I'm investigating the murder of a Labour MP's cleaner," Barker replied calmly, his eyes fixed on the caretaker. "And I think you know something about it."
+  
+The caretaker tried to deny any involvement, but Barker could see the fear in his eyes. He knew that he had the upper hand, and he was determined to extract the truth from the caretaker.
+
+"I-I-I d-d-don't know anything," the caretaker insisted, his voice shaking with anxiety.
+
+But Barker had a funny feeling as he looked past the caretaker's shoulder at the picture frame on the wall. He noticed that the frame was slightly crooked, and he had a hunch that something was hidden behind it.
+
+He walked over to the picture frame, and he carefully removed it from the wall. But to his disappointment, he found nothing behind the frame. There was no hidden compartment, no secret note, no clues of any kind.
+
+But as he examined the frame more closely, he noticed that there were marks on the back of the frame. They looked like numbers or letters, arranged in some sort of code. Barker felt a surge of excitement, and he realized that he had stumbled upon an important clue.
+
+Intrigued by his find, Barker carefully examines the painting frame, taking note of the intricate carvings and the elegant curves of the wood. He is struck by the beauty of the Victorian council house and its rich, dark wood panels. As he continues to investigate, he wonders what secrets the house might hold and what the code on the note could mean.
+
+As Barker walks back to find Rosa, he is struck by the similarity of the cross and circle figure on the note and the painting frame. He has never seen these symbols before and is immediately intrigued. He rushes back to retrieve the painting frame and brings it to Rosa and David to show them his discovery.
+
+"Look at this," Barker says, holding up the painting frame. "I found these markings on the frame and this note with the same symbols in the storeroom. I've never seen anything like it before."
+
+Rosa and David examine the symbols, pondering their meaning. "I wonder what the painting in the frame was of," Rosa muses. "And who painted it."
+
+"That's a good question," David says. "We should try to find out more about the painting and see if it has any connection to the murder."
+
+Barker nods in agreement. "I'll keep investigating and see if I can find any more clues," he says.
+
+David reports to Rosa and Barker about what he has been doing since they split up. "I spoke to the mayor and contacted the police," he says. "I also booked our hotel for the night. The taxi is waiting outside, so we should get going."
+
+The three of them climb into the taxi and set off for the suburbs. As they travel through the streets of Bury, David points out the sights and tells them about the history of the city.
+
+They arrive at the old hotel, which looks like it could be haunted. An old woman and a butler greet them at the entrance and show them to their room. The room is spacious and well-appointed, with antique furniture and old-fashioned decor.
+
+At 18:00, they come downstairs to the dining room for something to eat. The old woman and the butler serve them a delicious meal of roast beef and vegetables, followed by a rich and creamy dessert.
+
+As they eat, they discuss their plans for the next day and the progress they have made in their investigation. They are determined to solve the mystery and bring justice for Sarah.
+
+After dinner, David, Rosa, and Barker decide to go for a walk around the town to see if they can gather any clues or information about the case. They walk through the old streets, taking in the sights and sounds of the town. As they walk, they pass by an old library, a park, and several shops.
+
+At one of the shops, they see a group of people gathered outside, talking excitedly. They approach the group and listen to what they are saying. It turns out that someone has seen a suspicious-looking man lurking around the town, and they are trying to figure out who he is and what he might be up to.
+
+Later, as they sit in the dimly lit hotel room, Barker speaks up. "We need to keep a level head about this," he says pragmatically. "The murder of Sarah the cleaner is a highly unusual case, and we can't afford to get jumpy."
+
+Rosa, the fictional Leader of the Labour Party, nods in agreement as she continues to work on her papers. She looks up from her laptop, her face illuminated by the soft glow of the screen.
+
+David summarizes the case for the group. "I spoke to an expert about the code we found at the crime scene," he says. "They said that it's a highly sophisticated code, and it will take some time to crack."
+
+The three of them continue to discuss their plans for the next day, their voices low and serious. The only light in the room comes from a small lamp on the nightstand and the glow of their laptops.
+
+The next morning, the three of them are woken by the sound of an alarm bell. They quickly jump out of bed, groggy and disoriented.
+
+Barker knocks on Rosa's door and enters. "We need to get going," he says urgently. "Something's happening downstairs."
+
+Rosa grabs her laptop from the desk where she had left it the night before, while David quickly gathers his clothes from the chair in the corner of the room.
+
+They hurry downstairs to the reception area, where they find the receptionist talking urgently into the phone. She hangs up and turns to them. "There's been a break-in," she says, her voice trembling. "We need to evacuate the hotel immediately."
+
+The three of them quickly gather their belongings and head outside. The alarm is still ringing loudly, echoing through the streets.
+
+They stand outside, trying to figure out what to do next. They know that they need to investigate the break-in, but they also need to keep their guests safe.
+
+After some discussion, they decide to split up. David will stay outside and coordinate the evacuation, while Rosa and Barker will search the hotel for the perpetrator.
+
+They head back inside, their determination and focus clear in their eyes. They are determined to solve this case, no matter what it takes.
+
+ 
