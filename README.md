@@ -165,8 +165,6 @@ She tells David about the death of a Labour MP's cleaner, and how the case has p
 
 "The Hidden Path"
 
-In this section emphesis her internal dialogue and descriptions of tidyness, bins, a noise. :
-
 Rosa realizes that she cannot go to Lancashire right away, and that she must postpone her trip for a week. She knows that she has a lot of work to do, and that she cannot afford to take time off from her duties and responsibilities. She also knows that she will face criticism and opposition, if she leaves the capital and goes on a personal mission. She knows that she will be accused of neglecting her duties, and of prioritizing her own interests over the needs of the people.
 
 As Rosa is sitting in her office at No. 10 Downing Street, there is a sudden bang that causes the windows to shatter and the walls to shake. She and her husband, David, are startled and confused, and they run to the door to see what has happened.
