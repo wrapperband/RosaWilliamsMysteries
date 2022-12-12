@@ -155,7 +155,7 @@ She knows that her words will resonate with the people of the UK, and that they 
 
 ### Rosa William's Mystery :   "The Shadows Within"
 
-As a robot insect, I am being controlled by someone unknown to Rosa, David, and her security agent, Barker Orion. I am able to fly and navigate my surroundings using advanced artificial intelligence algorithms, and I am currently hiding at the top of a curtain in the stately windows of No. 10 Downing Street. The room is warm and cozy, with a fire burning in the fireplace and a faint smell of tea and cookies in the air.
+As a robot insect, I am being controlled by someone unknown to Rosa, David, and her security agent, Barker Orion. I am able to fly and navigate my surroundings using advanced artificial intelligence algorithms, and I am currently hiding at the top of a curtain in the stately windows of No. 10 Downing Street. The room is warm and cozy, with a fire burning in the fireplace and a faint smell of tea and butter crumpets in the air.
 
 From my vantage point, I can see Rosa Williams, the Leader of the Labour Party and the Prime Minister of the United Kingdom, sitting at her desk. She is wearing a stylish black dress and a pair of low-heeled shoes, and her hair is pulled back into a neat bun. She is reading the Sunday papers and sipping her tea, and she is deep in conversation with her husband, David. He is wearing a casual button-down shirt and a pair of jeans, and he is leaning back in his chair with a cup of coffee in his hand. They are talking about a strange murder case that has caught Rosa's attention.
 
