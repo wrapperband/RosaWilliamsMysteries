@@ -324,7 +324,13 @@ They quickly make their way to the hotel owner's office, but to their surprise, 
 
 As they continue to search the hotel, they discover that the butler has also disappeared. They can't help but feel that these disappearances are connected to the break-in and the murder of Sarah the cleaner. They are determined to find out what happened and bring the perpetrator to justice.
 
+## Back home.
+
+As they head back to 10 Downing Street, Rosa can't help but feel that something is not right. She has a sense of foreboding, as if something terrible is about to happen. She tries to shake off the feeling, but it persists, nagging at her mind.
+
 As they enter the bustling office of 10 Downing Street, Rosa is struck by the frenzied energy of the place. People are rushing around, talking on phones and typing on computers. She can hear snippets of conversation about the latest developments in the case, and about President McDonald and the situation in the US.
+
+They quickly make their way to Rosa's office. As she opens her bag to grab her papers, she is surprised to hear a faint buzzing sound. She looks around the room, trying to locate the source of the noise.  She's too busy talking to notice she says "show me the note and the picture frame, to Barker 
 
 Rosa is distracted by the noise and the activity, and she finds it difficult to focus on the task at hand. She is eager to show Barker and David the note and the painting frame, but she is constantly interrupted by people wanting to talk to her or update her on the latest news.
 
