@@ -1,5 +1,7 @@
 # RosaWilliamsMysteries  
 
+![alt tag](https://raw.githubusercontent.com/wrapperband/RosaWilliamsMysteries/main/images/RosaWilliamsFictionaLabourLeader.jpg)  
+
 My fellow citizens, I am Rosa Williams, and I am fictional Leader of the Labour party because I believe that we can do better. We can build a better, fairer, and more just society, where everyone has the opportunity to succeed and thrive  .
   
 For too long, the Tory government has failed us. They have prioritized the interests of the wealthy elite over the needs of the people. They have presided over rising inequality, declining public services, and a failing economy. But we, the Labour party, have a different vision. We believe in putting the people first, in promoting social justice and equality, and in creating a better future for all.  
