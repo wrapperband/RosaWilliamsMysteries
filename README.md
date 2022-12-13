@@ -349,17 +349,37 @@ As they continue to search the hotel, they discover that the butler has also dis
 
 ## Back home.
 
-As they head back to 10 Downing Street, Rosa can't help but feel that something is not right. She has a sense of foreboding, as if something terrible is about to happen. She tries to shake off the feeling, but it persists, nagging at her mind.
+Despite her growing unease, Rosa's thoughts turn to the games she loves to play. As a grand master at chess, she is known for her strategic thinking and ability to outmaneuver her opponents. But she also enjoys playing bridge, a card game that requires skill, strategy, and the ability to read your opponent's mind.
+
+Rosa has competed in many tournaments at the county level, and she has often marveled at the intricate nuances of these games. She loves the intellectual challenge they present, and the thrill of victory when she emerges victorious.
+
+But sometimes, even the most skilled players can be caught off guard by a tricky move or a sudden change in strategy. Rosa has heard many anecdotes about these moments, and she often ponders them as she plays, wondering if she too could be caught by surprise.
+
+Despite her love for these games, Rosa can't shake off the feeling of dread that is weighing on her mind. She hopes that it is just her imagination, but she can't shake the feeling that something terrible is about to happen. She quickens her pace, eager to reach the safety of 10 Downing Street and put her mind at ease.
 
 As they enter the bustling office of 10 Downing Street, Rosa is struck by the frenzied energy of the place. People are rushing around, talking on phones and typing on computers. She can hear snippets of conversation about the latest developments in the case, and about President McDonald and the situation in the US.
+
+She knows that President McDonald has been facing a number of issues lately, from the ongoing investigation into his sons' affairs to the questionable donations he has received from various organizations. There have even been rumors of mafia connections, which have only added to the president's growing list of problems.
+
+But as she makes her way through the office, Rosa is surprised to hear someone mention a strange and unexpected issue: the president's apparent obsession with pet snakes. According to the rumor, he has been spending hours on end caring for his collection of exotic reptiles, and has even let his golf game suffer as a result.
+
+Rosa is stunned by this revelation. She has always known President McDonald to be a passionate golfer, but this new information makes him seem almost distracted. She wonders what other surprises he might have in store, and what impact they might have on the already tumultuous situation in the US.
 
 They quickly make their way to Rosa's office. As she opens her bag to grab her papers, she is surprised to hear a faint buzzing sound. She looks around the room, trying to locate the source of the noise.  She's too busy talking to notice she says "show me the note and the picture frame, to Barker 
 
 Rosa is distracted by the noise and the activity, and she finds it difficult to focus on the task at hand. She is eager to show Barker and David the note and the painting frame, but she is constantly interrupted by people wanting to talk to her or update her on the latest news.
 
-Rosa, Barker, and David sit down at a conference table in Rosa's office, and they begin to discuss the clues they have collected. Rosa pulls out the note and the painting frame, and she explains what she has learned about their significance.
+Rosa, Barker, and David convene at a conference table in Rosa's office to discuss the clues they have gathered. Rosa retrieves the note and the painting frame and proceeds to explain their significance.
 
-"The note contains a complex code," Rosa says, her eyes scanning the symbols on the paper. "It will take some time to decipher, but I'm confident that it holds the key to solving this case."
+"The note is encrypted with a sophisticated code," Rosa says, her eyes scanning the intricate symbols on the paper. "Deciphering it may take some time, but I am convinced that it holds the key to unlocking the mystery of this case."
+
+One way in which the code on the note could have been encrypted is through the use of a cryptographic method known as the Vigenère cipher. This method, named after the French mathematician Blaise de Vigenère, involves using a series of different Caesar ciphers based on a secret keyword. Each letter in the secret keyword corresponds to a Caesar cipher, with "A" corresponding to a shift of 0, "B" corresponding to a shift of 1, and so on.
+
+For example, if the secret keyword is "SECRET" and the message to be encrypted is "HELLO WORLD", the encrypted message would be "LIPPS ASVJR". To decrypt the message, the recipient would need to know the secret keyword.
+
+
+
+In the case of Rosa, Barker, and David, they may need to use a similar cryptographic method in order to decipher the complex code on the note and uncover the information it contains.
 
 "What about the painting frame?" Barker asks, his brow furrowed in concentration. "What do you think it means?"
 
@@ -377,7 +397,10 @@ Rosa and David look at Barker in amazement, as he explains his discovery. "This 
 
 "I'm not sure," David admits, scratching his chin in contemplation. "But it's definitely worth investigating. Let's go to my flat at no. 11 and see if we can figure out more about this Rolls Royce nuclear jet design."
 
-## Rosa Williams and the secret document
+
+
+
+## Rosa Williams and the secret document  v0.1
 
  Rosa Williams is sitting in the No. 10 Downing Street, reading the Sunday papers and sipping her tea. She is mumbling to her husband, David, about a strange murder case that has caught her attention. She tells him about the death of a Labour MP's cleaner, and how the case has puzzled and intrigued her. She says that she has a feeling, that there is more to the case than meets the eye.  
  
